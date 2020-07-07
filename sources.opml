@@ -89,6 +89,24 @@
             <outline type="rss" text="SystemExposed" title="SystemExposed" xmlUrl="https://www.blogger.com/feeds/8594160066874890761/posts/default" htmlUrl="http://systemexposed.blogspot.com/"/>
             <outline type="rss" text="Malwarebytes Labs" title="Malwarebytes Labs" xmlUrl="https://blog.malwarebytes.com/feed/" htmlUrl="https://blog.malwarebytes.com"/>
         </outline>
+        <outline text="feedly_vulnerability_bundle" title="feedly_vulnerability_bundle">
+            <outline type="rss" text="Exploit-DB.com RSS Feed" title="Exploit-DB.com RSS Feed" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com"/>
+            <outline type="rss" text="The Exploit Database - CXSecurity.com" title="The Exploit Database - CXSecurity.com" xmlUrl="http://securityreason.com/rss/ExploitAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
+            <outline type="rss" text="Exploit Files ≈ Packet Storm" title="Exploit Files ≈ Packet Storm" xmlUrl="http://packetstormsecurity.org/exploits.xml" htmlUrl="https://packetstormsecurity.com/"/>
+            <outline type="rss" text="Full Disclosure" title="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" htmlUrl="http://seclists.org/#fulldisclosure"/>
+            <outline type="rss" text="Vulnerabilities – Threatpost" title="Vulnerabilities – Threatpost" xmlUrl="https://threatpost.com/category/vulnerabilities/feed/" htmlUrl="https://threatpost.com"/>
+            <outline type="rss" text="National Vulnerability Database" title="National Vulnerability Database" xmlUrl="http://nvd.nist.gov/download/nvd-rss.xml" htmlUrl="https://web.nvd.nist.gov/view/vuln/search"/>
+            <outline type="rss" text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org"/>
+            <outline type="rss" text="CISA Current Activity" title="CISA Current Activity" xmlUrl="http://www.us-cert.gov/current/index.rdf" htmlUrl="https://us-cert.cisa.gov/"/>
+            <outline type="rss" text="CXSECURITY Database RSS Feed - CXSecurity.com" title="CXSECURITY Database RSS Feed - CXSecurity.com" xmlUrl="http://securityreason.com/rss/SecurityAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
+            <outline type="rss" text="CISA Alerts" title="CISA Alerts" xmlUrl="https://www.us-cert.gov/ncas/alerts.xml" htmlUrl="https://us-cert.cisa.gov/"/>
+            <outline type="rss" text="Code Execution Files ≈ Packet Storm" title="Code Execution Files ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.com/files/tags/code_execution/" htmlUrl="https://packetstormsecurity.com/"/>
+            <outline type="rss" text="JVNRSS Feed - Update Entry" title="JVNRSS Feed - Update Entry" xmlUrl="https://jvn.jp/en/rss/jvn.rdf" htmlUrl="https://jvn.jp/en/"/>
+            <outline type="rss" text="CISA ICS All Docs Feed" title="CISA ICS All Docs Feed" xmlUrl="http://www.us-cert.gov/control_systems/xml/rss.xml" htmlUrl="https://us-cert.cisa.gov/"/>
+            <outline type="rss" text="vuldb.com" title="vuldb.com" xmlUrl="https://vuldb.com/?rss.updates" htmlUrl="https://vuldb.com"/>
+            <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
+            <outline type="rss" text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.org/news/tags/zero_day/" htmlUrl="https://packetstormsecurity.com/"/>
+        </outline>
         <outline text="Inactive" title="Inactive">
             <outline type="rss" text="1gb de información" title="1gb de información" xmlUrl="https://www.blogger.com/feeds/7075717135925973054/posts/default" htmlUrl="http://1gbdeinformacion.blogspot.com/"/>
         </outline>
